@@ -1,4 +1,4 @@
-## 개발자를 꿈꾸며
+## LEE YE BIN
 
 <!--
 **yeab-in/yeab-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
